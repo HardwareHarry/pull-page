@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Scraper runtime output files
+signed_editions.json
+page_debug.html
+
+# Editors / OS
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
